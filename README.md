@@ -55,5 +55,5 @@ This is an academic project, but suggestions are welcome!
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-**Author:** [Your Name]  
+**Author:** [Dhananjay Jaiswal]  
 **Institution:** Shri Ram Swaroop Memorial University (SRMU)
